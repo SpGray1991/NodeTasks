@@ -1,0 +1,20 @@
+{
+  "name": "modulesapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "dev": "node app.js Tom 26"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "directory-tree": "^3.2.2",
+    "dree": "^3.3.6",
+    "express": "^4.17.3",
+    "request": "^2.88.2"
+  }
+}
